@@ -1,2 +1,1 @@
-Register App - Example
-Laravel & Postgresql
+Register App - Using Laravel
